@@ -53,7 +53,7 @@ unsafe = true
 
   [[menu.main]]
     name = "Sermons"
-    url = "#"
+    url = "https://medium.com/@anderson.rosanna"
     parent = "Resources"
     weight = 1
 
