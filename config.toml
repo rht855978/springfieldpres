@@ -37,13 +37,13 @@ unsafe = true
   [[menu.main]]
     name = "About Us"
     parent = "About"
-    url = "#"
+    url = "about"
     weight = 1
 
   [[menu.main]]
     name = "Pastor"
     parent = "About"
-    url = "#"
+    url = "pastor"
     weight = 2
 
   [[menu.main]]

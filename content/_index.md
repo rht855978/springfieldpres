@@ -26,27 +26,31 @@
     accent = "1"
     title = "Serve"
     text = "Growing people who serve our community."
+    url = "serve"
 
   [[feature_icons.tile]]
     icon = "fa-church"
     icon_pack = "fas"
     accent = "2"
-    title = "Meet"
-    text = "Meeting together to hear the Word."
+    title = "Grow"
+    text = "Growing together in faith."
+    url = "grow"
 
   [[feature_icons.tile]]
     icon = "fa-comments"
     icon_pack = "fas"
     accent = "5"
-    title = "Speak"
+    title = "Reflect"
     text = "Speaking encouragement to one another."
+    url = "reflect"
 
   [[feature_icons.tile]]
     icon = "fa-heartbeat"
     icon_pack = "fas"
     accent = "3"
-    title = "Loved"
+    title = "Care"
     text = "Knowing Love. Being Loved."
+    url = "care"
 
 [feature_images]
 #These feature images look best if there's an even number of them.
@@ -56,14 +60,14 @@
     image = "img/freely-10057.jpg"
     title = "Children's Ministry"
     text = "A church for the family."
-    url = "#"
+    url = "children"
     button_text = "Learn more"
 
   [[feature_images.tile]]
     image = "img/freely-26905.jpg"
     title = "Midweek Ministries"
     text = "Want more during the week?"
-    url = "#"
+    url = "midweek"
     button_text="Join a Bible study today!"
 
 [CTA]
