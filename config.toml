@@ -9,7 +9,7 @@ paginate = 4
 enableEmoji = true
 
 # Enter your tracking code to enable Google Analytics
-googleAnalytics = ""
+googleAnalytics = "UA-168224170-1"
 
 enableInlineShortcodes = true
 
@@ -31,19 +31,19 @@ unsafe = true
 
   [[menu.main]]
     name = "About"
-    url = "/about"
+    url = "#"
     weight = 2
 
   [[menu.main]]
     name = "About Us"
     parent = "About"
-    url = "/about"
+    url = "#"
     weight = 1
 
   [[menu.main]]
-    name = "Leaders"
+    name = "Pastor"
     parent = "About"
-    url = "/leaders"
+    url = "#"
     weight = 2
 
   [[menu.main]]
@@ -53,31 +53,19 @@ unsafe = true
 
   [[menu.main]]
     name = "Sermons"
-    url = "/sermons"
+    url = "#"
     parent = "Resources"
     weight = 1
 
   [[menu.main]]
-    name = "Preachers"
-    url = "/preachers"
-    parent = "Sermons"
-    weight = 1
-
-  [[menu.main]]
-    name = "Best Ever"
+    name = "Videos"
     url = "#"
-    parent = "Sermons"
-    weight = 1
-
-  [[menu.main]]
-    name = "Blog"
-    url = "/posts"
     parent = "Resources"
     weight = 2
 
   [[menu.main]]
     name = "Contact"
-    url = "/contact"
+    url = "#cta"
     weight = 4
 
 # Paramaters for the whole site
@@ -100,10 +88,10 @@ unsafe = true
 #    googleFonts = ["Cardo", "Crimson+Text", "Merriweather", "Playfair+Display:400,700", "Roboto+Slab"]
 
   [params.podcast]
-    title = "Listen to Alpha Church"
+    title = "Listen to First Presbyterian"
     subtitle = ""
-    summary = "Alpha-Church sermons, talks, messages—podcasted."
-    email = "test@example.com"
+    summary = "First Presbyterian sermons, talks, messages—podcasted."
+    email = "rosanna@pastorrosanna.net"
     copyright = "Podcast: [CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)"
     image = "img/podcast-cover.jpg"
     category = "Religion & Spirituality"
@@ -152,7 +140,7 @@ unsafe = true
       service = "Facebook"
       icon = "fa-facebook"
       icon_pack = "fab"
-      link = "//facebook.com/"
+      link = "//facebook.com/First-Presbyterian-Church-Springfield-TN-437288392974522/"
 
     [[params.links]]
       service = "Podcast"
