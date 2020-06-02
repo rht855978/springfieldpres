@@ -12,7 +12,7 @@
 #Details for the box below the banner url = "/kids"
 [services]
   title = "Worship on Sunday"
-  text = "We meet at 11 am [200 W 5th Ave Springfield, Tennessee](https://goo.gl/maps/zMG8Hi5qnzPJ7wEk6). We are now meeting remotely due to COVID-19."
+  text = "We meet at 11 am at [200 W 5th Ave Springfield, Tennessee](https://goo.gl/maps/zMG8Hi5qnzPJ7wEk6). We are now meeting remotely due to COVID-19."
   map_location = "First Presbyterian Church of Springfield, Tennessee"
 
 [feature_icons]
@@ -32,7 +32,7 @@
     icon_pack = "fas"
     accent = "2"
     title = "Meet"
-    text = "Meeting together to hear."
+    text = "Meeting together to hear the Word."
 
   [[feature_icons.tile]]
     icon = "fa-comments"
@@ -54,7 +54,7 @@
 
   [[feature_images.tile]]
     image = "img/freely-10057.jpg"
-    title = "Childrens' Ministry"
+    title = "Children's Ministry"
     text = "A church for the family."
     url = "#"
     button_text = "Learn more"
