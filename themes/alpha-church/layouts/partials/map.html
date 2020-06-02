@@ -50,7 +50,7 @@
       mapboxgl.accessToken = "{{- .api_key -}}";
       var map = new mapboxgl.Map({
         container: 'map', // container id
-        style: "{{- safeHTML .style_url  -}}", // stylesheet location
+        style: "{{- safeHTML .style_url -}}", // stylesheet location
         center: loc, // starting position [lng, lat]
         zoom: {{- int .zoom -}} // starting zoom
       });
