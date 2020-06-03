@@ -59,7 +59,7 @@ unsafe = true
 
   [[menu.main]]
     name = "Videos"
-    url = "#"
+    url = "https://www.youtube.com/channel/UC7GCqiHtl7JXZln1_fzePSg/videos"
     parent = "Resources"
     weight = 2
 
