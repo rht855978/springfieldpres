@@ -64,6 +64,12 @@ unsafe = true
     weight = 2
 
   [[menu.main]]
+    name = "Worship"
+    url = "worship"
+    parent = "Resources"
+    weight = 3
+
+  [[menu.main]]
     name = "Contact"
     url = "#cta"
     weight = 4
