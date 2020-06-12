@@ -6,6 +6,8 @@ draft: false
 
 # Worship Bulletins
 
+
+* [June 14, 2020](/pdf/06-14-2020.pdf)
 * [June 7, 2020](/pdf/06-07-2020.pdf)
 
 # Worship services
