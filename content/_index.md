@@ -8,6 +8,10 @@
   [[banner.button]]
       url = "#feature-icons"
       text = "Find out more"
+      
+   [[banner.button]]
+      url = "https://www.givelify.com/givenow/1.0/?token=eyJvcmdfaWQiOiJOalkxT0RnfiIsImJhZGdlX2ltYWdlIjoiYjMucG5nIn0~"
+      text = "Give"
 
 #Details for the box below the banner url = "/kids"
 [services]
