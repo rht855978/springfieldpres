@@ -1,5 +1,5 @@
 ---
-title: "Worship"
+title: "Bulletins"
 date: 2020-06-04T19:59:45-05:00
 draft: false
 ---
