@@ -47,26 +47,26 @@ unsafe = true
     weight = 2
 
   [[menu.main]]
-    name = "Resources"
+    name = "Worship"
     url = "#"
     weight = 3
 
   [[menu.main]]
     name = "Sermons"
     url = "https://medium.com/@anderson.rosanna"
-    parent = "Resources"
+    parent = "Worship"
     weight = 1
 
   [[menu.main]]
     name = "Videos"
     url = "https://www.youtube.com/channel/UC7GCqiHtl7JXZln1_fzePSg/videos"
-    parent = "Resources"
+    parent = "Worship"
     weight = 2
 
   [[menu.main]]
-    name = "Worship"
-    url = "worship"
-    parent = "Resources"
+    name = "Bulletins"
+    url = "bulletins"
+    parent = "Worship"
     weight = 3
 
   [[menu.main]]
