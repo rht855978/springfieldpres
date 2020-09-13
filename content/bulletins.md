@@ -6,6 +6,7 @@ draft: false
 
 # Worship Bulletins
 
+* [September 13, 2020](/pdf/09-13-2020.pdf)
 * [September 6, 2020](/pdf/09-06-2020.pdf)
 * [August 30, 2020](/pdf/08-30-2020.pdf)
 * [August 23, 2020](/pdf/08-23-2020.pdf)
