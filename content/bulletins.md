@@ -6,6 +6,7 @@ draft: false
 
 # Worship Bulletins
 
+* [January 31, 2021](/pdf/02-07-2021.pdf)
 * [January 31, 2021](/pdf/01-31-2021.pdf)
 * [January 24, 2021](/pdf/01-24-2021.pdf)
 * [January 17, 2021](/pdf/01-17-2021.pdf)
@@ -15,7 +16,7 @@ draft: false
 * [December 20, 2020](/pdf/12-20-2020.pdf)
 * [December 13, 2020](/pdf/12-13-2020.pdf)
 * [December 6, 2020](/pdf/12-06-2020.pdf)
-* [November 29, 2020](/pdf/11-29-2020.pdf)
+* [November 29, 2020](/pdf/11-29-2020.pdf1)
 * [November 22, 2020](/pdf/11-22-2020.pdf)
 * [November 15, 2020](/pdf/11-15-2020.pdf)
 * [November 8, 2020](/pdf/11-08-2020.pdf)
