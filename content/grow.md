@@ -5,7 +5,7 @@ draft: false
 ---
 # Health and Safety Guidelines
 
-For the safety of others and the community as whole:
+For the safety of others and the community as a whole:
 
 * Everyone must wear a mask while at church apart from the celebration of the Lord’s Supper.
 * Please bring a mask with you to worship. If you do not bring a mask, the ushers will provide one at the door.
