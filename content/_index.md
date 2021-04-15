@@ -16,7 +16,7 @@
 #Details for the box below the banner url = "/kids"
 [services]
   title = "Worship on Sunday"
-  text = "We meet at 11 am at [200 W 5th Ave Springfield, Tennessee](https://goo.gl/maps/zMG8Hi5qnzPJ7wEk6). Please [consult our guidelines](give) when preparing to attend any church event."
+  text = "We meet at 11 am at [200 W 5th Ave Springfield, Tennessee](https://goo.gl/maps/zMG8Hi5qnzPJ7wEk6). Please [consult our guidelines](grow) when preparing to attend any church event."
   map_location = "First Presbyterian Church of Springfield, Tennessee"
 
 [feature_icons]
