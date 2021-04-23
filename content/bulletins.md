@@ -6,6 +6,7 @@ draft: false
 
 # Worship Bulletins
 
+* [April 25, 2021](/pdf/04-25-2021.pdf)
 * [April 18, 2021](/pdf/04-18-2021.pdf)
 * [April 11, 2021](/pdf/04-11-2021.pdf)
 * [April 4, 2021](/pdf/04-04-2021.pdf)
